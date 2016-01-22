@@ -8,7 +8,8 @@ int composant2(int p1, int p2)
 {
 	return p1*p2;
 }
-char * getComposant1Version()
+
+char * getComposant2Version()
 {
 	return "Composant 2 version " COMPOSANT_VERSION_STR;
 }

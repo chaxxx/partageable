@@ -13,15 +13,12 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Resource">
-      <UniqueIdentifier>{3deb9b5c-e59f-4cf5-97be-276f9513169d}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Composant3.h">
+    <ClInclude Include="Composant4.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
-    <ClInclude Include="Composant3Version.h">
+    <ClInclude Include="Composant4Version.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
     <ClInclude Include="resource.h">
@@ -29,13 +26,13 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Composant3.cpp">
+    <ResourceCompile Include="Composant4.rc">
       <Filter>Fichiers de ressources</Filter>
-    </ClCompile>
+    </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="Composant3.rc">
-      <Filter>Resource</Filter>
-    </ResourceCompile>
+    <ClCompile Include="Composant4.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
