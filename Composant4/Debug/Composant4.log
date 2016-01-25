@@ -1,21 +1,26 @@
-﻿La génération a démarré 22/01/2016 16:47:46.
-     1>Projet "C:\Users\tamaha15\Documents\GitHub\COMPOSANT\partageable\Composant4\Composant4.vcxproj" sur le nœud 2 (build cible(s)).
+﻿La génération a démarré 25/01/2016 17:36:14.
+     1>Projet "C:\Users\tamaha15\Documents\GitHub\Projett\partageable\Composant4\Composant4.vcxproj" sur le nœud 3 (build cible(s)).
      1>InitializeBuildStatus:
          Création de "Debug\Composant4.unsuccessfulbuild", car "AlwaysCreate" a été spécifié.
        ClCompile:
-         Toutes les sorties sont à jour.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\tamaha15\Documents\GitHub\Projett\partageable\Interfaces /ZI /nologo /W3 /WX- /Od /Oy- /D COMPOSANT4_EXPORTS /D WIN32 /D _WINDOWS /D _DEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Composant4.cpp
+         Composant4.cpp
        ResourceCompile:
          Toutes les sorties sont à jour.
        Link:
-         Toutes les sorties sont à jour.
-         Composant4.vcxproj -> C:\Users\tamaha15\Documents\GitHub\COMPOSANT\partageable\Debug\Composant4.dll
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\tamaha15\Documents\GitHub\Projett\partageable\Debug\Composant4.dll" /NOLOGO /MANIFEST /ManifestFile:"Debug\Composant4.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\tamaha15\Documents\GitHub\Projett\partageable\Debug\Composant4.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\tamaha15\Documents\GitHub\Projett\partageable\Debug\Composant4.lib" /MACHINE:X86 /DLL Debug\Composant4.res
+         Debug\Composant4.obj
+         C:\Users\tamaha15\Documents\GitHub\Projett\partageable\Debug\Composant3.lib
+         LINK : C:\Users\tamaha15\Documents\GitHub\Projett\partageable\Debug\Composant4.dll introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
+            Création de la bibliothèque C:\Users\tamaha15\Documents\GitHub\Projett\partageable\Debug\Composant4.lib et de l'objet C:\Users\tamaha15\Documents\GitHub\Projett\partageable\Debug\Composant4.exp
+         Composant4.vcxproj -> C:\Users\tamaha15\Documents\GitHub\Projett\partageable\Debug\Composant4.dll
        Manifest:
-         Toutes les sorties sont à jour.
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\tamaha15\Documents\GitHub\Projett\partageable\Debug\Composant4.dll;#2" /manifest Debug\Composant4.dll.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
        FinalizeBuildStatus:
          Suppression du fichier "Debug\Composant4.unsuccessfulbuild".
          Mise à jour de l'horodatage "Debug\Composant4.lastbuildstate".
-     1>Génération du projet "C:\Users\tamaha15\Documents\GitHub\COMPOSANT\partageable\Composant4\Composant4.vcxproj" terminée (build cible(s)).
+     1>Génération du projet "C:\Users\tamaha15\Documents\GitHub\Projett\partageable\Composant4\Composant4.vcxproj" terminée (build cible(s)).
 
 La génération a réussi.
 
-Temps écoulé 00:00:00.09
+Temps écoulé 00:00:01.54
